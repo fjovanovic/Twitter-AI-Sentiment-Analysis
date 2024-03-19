@@ -1,3 +1,7 @@
 .venv/
 **/__pycache__/
 **/.ipynb_checkpoints/
+
+dataset/association_rules/
+dataset/classification/
+dataset/clustering/
