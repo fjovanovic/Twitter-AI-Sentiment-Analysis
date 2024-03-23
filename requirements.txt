@@ -9,3 +9,4 @@ imbalanced-learn
 scikit-learn
 seaborn
 joblib
+scipy
