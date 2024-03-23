@@ -6,3 +6,6 @@ nltk
 wordcloud
 Pillow<=9.5.0
 imbalanced-learn
+scikit-learn
+seaborn
+joblib
