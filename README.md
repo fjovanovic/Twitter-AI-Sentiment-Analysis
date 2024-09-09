@@ -2,7 +2,6 @@
 
 The project was developed during the third year of studies for the Data Mining 1 course, under the guidance of PhD Nenad Mitic, with support from teaching associate Marija Eric.  
 
-Author: `Filip Jovanovic`  
 Professor: `PhD Nenad Mitic`  
 Teaching associate: `Marija Eric`
 
@@ -15,7 +14,6 @@ hosted on [kaggle](https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentimen
 There, you can access additional documentation, code implementations, and the dataset itself, facilitating a deeper understanding of the project's methodologies and findings.
 
 ## Environment
-- [![python](https://img.shields.io/badge/Python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 - [![python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 - [Virtual Environment](https://docs.python.org/3/library/venv.html) (Optional but recommended): Set up a virtual environment to manage project dependencies.
 This ensures project isolation and prevents conflicts with other Python projects.
